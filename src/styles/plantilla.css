@@ -1,0 +1,19 @@
+/* Selecciona la imagen dentro del carrusel */
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+    /* Muestra la imagen completa sin recortar */
+    object-fit: contain !important;
+    /* Fondo opcional por si la imagen es muy delgada */
+    background-color: #f8fafc;
+    /* Espacio para que no toque los bordes */
+    padding: 8px;
+}
+
+/* Ajuste para el Modal (imagen agrandada) */
+.fixed img {
+    max-width: 90vw;
+    max-height: 90vh;
+    object-fit: contain;
+    border-radius: 0.5rem;
+}
