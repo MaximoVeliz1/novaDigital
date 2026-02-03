@@ -62,8 +62,8 @@ export function Plantillas() {
             Explora Nuestras <span className="text-blue-600">Demos</span>
           </h1>
           <p className="text-gray-500 max-w-xl mx-auto">
-            Haz clic en cualquier imagen para ver los detalles al estilo
-            Instagram. Diseños 100% adaptables a tu marca.
+            Haz clic en cualquier imagen para ver los detalles de tu
+            futuro emprendimento. Diseños 100% adaptables a tu marca.
           </p>
         </div>
 
